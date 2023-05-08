@@ -16,7 +16,7 @@ const Landing = () => {
                     job <span>tracking</span> app
                 </h1>
                 <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia quibusdam similique, repudiandae voluptatibus cum explicabo veritatis autem pariatur qui ut nihil itaque impedit? Perferendis eum fugiat at explicabo sequi laudantium!
+                    You can track your jobs here
                 </p>
                 <Link to="/register" className='btn btn-hero'>Login/Register</Link>
             </div>
